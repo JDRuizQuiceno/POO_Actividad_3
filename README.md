@@ -1,0 +1,1 @@
+En este repositorio se encuentranb las soluciones de la actividad 3 de la asignatura de programación orientada a objetos relizada por el estudiante Juan David Ruiz Quiceno de la Universidad Nacional de Colombia.
